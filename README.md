@@ -1,0 +1,1 @@
+The Odin assignment1 is a development of a webpage using HTML, CSS and FLEXBOX. The assignment involves creating a web page to match a given template and possibly improve on it. I need a bucket for the tears coming. Where is the fun without it?

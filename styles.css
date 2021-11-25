@@ -1,0 +1,169 @@
+body {
+    height: 100vh;
+    margin: 0;
+    
+}
+
+.header {
+    background-color: #1F2937;
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    gap: 50px;
+    padding-bottom: 24px;
+    
+}
+
+.texts {
+    color: #F9FAF8;
+    font-size: 24px;
+    padding: 16px 100px;
+    display: flex;
+    margin: 16px 150px;
+    
+}
+
+a {
+  color:#E5E7EB;
+  font-size: 18px;
+  display: flex;
+  
+  
+}
+
+ul {
+    list-style-type: none;
+    display:flex;
+    gap: 80px;
+    justify-content: flex-end;
+    margin-right: 150px;
+    margin-top: 16px;
+    flex-grow: 1;
+}
+
+
+.name {
+    font-size: 48px;
+    font-weight: bolder;
+    color: f9faf8;
+    display:flex;
+    margin: 8px 100px;
+    padding: 0;
+
+}
+
+.description {
+    font-size: 24px;
+    font-weight: normal;
+    color: lightgrey;
+    display: flex;
+    max-width: 600px;
+    margin: 24 100px;
+}
+
+button {
+    margin: 8px 100px;
+    background-color: #3882f6;
+    color:#E5E7EB;
+    border-color: #E5E7EB;
+    border-radius: 5px;
+    padding: 3px 6px 3px;
+    font-size: 24px;
+    
+}
+
+.title image {
+    display:flex;
+    justify-content: center;
+    
+    
+}
+
+.container {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.heading {
+    display:flex;
+    flex-basis: 100%;
+    justify-content: center;
+    padding: 48px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    
+}
+
+.info {
+   max-width: 230px;
+   display: flex;
+   flex-direction: column;
+   padding: 48px;
+   align-items:center;
+   justify-content: space-evenly;
+   gap: 22px;
+   align-items: center;
+   
+
+}
+
+.text {
+    text-align: center;
+}
+
+.inspiration {
+    text-align: center;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    background-color: e5e7eb;
+    display:flex;
+    flex-basis: 100%;
+    justify-content: center;
+    padding: 48px;
+
+}
+
+.author {
+    color:black;
+    font-weight: bold;
+    text-align: right;
+}
+
+.call {
+    padding: 60px 60px;
+}
+
+.inner {
+    padding: 12px;
+    background-color: #3882f6;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-height: 60px;
+    border-radius: 24px;
+
+}
+
+.line {
+    font-size: 24px;
+    color: #E5E7EB;
+    font-weight: bold;
+}
+
+.line2 {
+    color:#E5E7EB;
+    padding-top: 8px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    justify-content: center;
+    display:flex;
+    padding: 16px; 
+}
+
