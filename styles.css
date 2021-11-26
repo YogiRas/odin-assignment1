@@ -167,3 +167,10 @@ button {
     padding: 16px; 
 }
 
+@media  and (max-width: 1020px) {
+    #header, #container, #inspiration, #call, #footer {
+        float: none;
+        width: auto;
+    }    
+}
+
